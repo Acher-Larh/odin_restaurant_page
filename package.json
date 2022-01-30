@@ -1,0 +1,30 @@
+{
+  "name": "restaurant_page",
+  "version": "1.0.0",
+  "description": "restaurant page project, THE ODIN PROJECT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Acher-Larh/odin_restaurant_page.git"
+  },
+  "keywords": [
+    "restaurant_page",
+    "odinproject"
+  ],
+  "author": "achraf larhmich",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Acher-Larh/odin_restaurant_page/issues"
+  },
+  "homepage": "https://github.com/Acher-Larh/odin_restaurant_page#readme",
+  "devDependencies": {
+    "css-loader": "^6.5.1",
+    "style-loader": "^3.3.1",
+    "ts-loader": "^9.2.6",
+    "webpack": "^5.67.0",
+    "webpack-cli": "^4.9.2"
+  }
+}
